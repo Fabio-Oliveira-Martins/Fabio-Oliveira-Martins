@@ -49,12 +49,12 @@ Você pode conferir meus projetos mais recentes nos repositórios fixados abaixo
         media="(prefers-color-scheme: dark)"
         />
         <img 
-            height=230 
+            height=200 
             src="https://github-readme-stats.vercel.app/api?username=Fabio-Oliveira-Martins&show_icons=true" />
     </picture>
     <picture>
         <img
-            height=230 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+            height=200 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Oliveira-Martins&layout=compact&locale=pt-br&include_all_commits=true">
     </picture>
 </div>
