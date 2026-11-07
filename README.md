@@ -7,7 +7,7 @@
 
 Sou Fábio Oliveira Martins, atualmente cursando **Ciência da Computação** na Universidade Paulista (UNIP). Meu principal objetivo é transitar do ambiente acadêmico para o mercado de trabalho, buscando uma oportunidade de **estágio** em Desenvolvimento Front-end onde eu possa aprender ativamente e aplicar os fundamentos que venho desenvolvendo.
 
-Atualmente, meus estudos e projetos pessoais estão focados em dominar **HTML, CSS e JavaScript**, explorando conceitos de **semântica, resposividade, consumo básico de APIs, funções assíncronas e utilização de classes em JavaScript**. Tenho familiaridade com ferramentas e tecnologias essenciais como Vite, Tailwind CSS e versionamento com Git/GitHub**, além de noções básicas de organização e boas práticas voltadas ao desenvolvimento front-end.
+Atualmente, meus estudos e projetos pessoais estão focados em dominar **HTML, CSS** e **JavaScript**, explorando conceitos de **semântica, resposividade, consumo básico de APIs, funções assíncronas e utilização de classes em JavaScript**. Tenho familiaridade com ferramentas e tecnologias essenciais como **Vite**, **Tailwind CSS**, **React** e versionamento com **Git/GitHub**, além de noções básicas de organização e boas práticas voltadas ao desenvolvimento front-end.
 
 Você pode conferir meus projetos mais recentes nos repositórios fixados abaixo. Sinta-se à vontade para me contatar pelo meu e-mail [fabiooliveiramartins@outlook.com](mailto:fabiooliveiramartins@outlook.com) para falar sobre oportunidades ou troca de conhecimento.
 
