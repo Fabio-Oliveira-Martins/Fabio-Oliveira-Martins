@@ -29,6 +29,9 @@ Você pode conferir meus projetos mais recentes nos repositórios fixados abaixo
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
     <img 
+        width="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img 
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img 
@@ -40,6 +43,15 @@ Você pode conferir meus projetos mais recentes nos repositórios fixados abaixo
     <img 
         width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+    <img 
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img 
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img 
+        width="60"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <br>
 
